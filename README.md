@@ -1,0 +1,1 @@
+# auspex-trip-service-fabric
